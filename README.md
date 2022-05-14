@@ -2,4 +2,4 @@
 
 ## BMI Calculator Application Made With Flutter
 
-![Flutter BMI App](Github/Rec.gif)
+![Flutter BMI App](Github/img.jpg)
